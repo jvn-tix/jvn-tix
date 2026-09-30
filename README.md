@@ -1,4 +1,4 @@
-# 🎮 Game Developer<img width="400" height="225" alt="EndlessFront_gif" src="https://github.com/user-attachments/assets/d2fff135-6dcb-4b3e-a4bf-f9c241d74da5" />
+# 🎮 Game Developer
 
 
 Halo! Selamat datang di portofolio saya. Berikut adalah beberapa proyek game yang telah saya kembangkan:
