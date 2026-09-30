@@ -1,4 +1,5 @@
-# 🎮 Game Developer Portfolio
+# 🎮 Game Developer<img width="400" height="225" alt="EndlessFront_gif" src="https://github.com/user-attachments/assets/d2fff135-6dcb-4b3e-a4bf-f9c241d74da5" />
+
 
 Halo! Selamat datang di portofolio saya. Berikut adalah beberapa proyek game yang telah saya kembangkan:
 
@@ -10,7 +11,7 @@ Halo! Selamat datang di portofolio saya. Berikut adalah beberapa proyek game yan
   <tr>
     <td width="50%" valign="top">
       <h3 align="center">1. Endless Front</h3>
-      <img src="game1.gif" width="100%" alt="Gameplay Game 1"><br><br>
+      <img width="400" height="225" alt="EndlessFront_gif" src="https://github.com/user-attachments/assets/99a4a568-8339-490f-b198-f308b71a9b0a" /><br><br>
       <b>Deskripsi: </b><br>
       Endless Front mengusung genre 2D Action Shooter yang menyajikan aksi serba cepat dan responsif. Fitur utamanya berfokus pada sistem High Score untuk menguji rekor terbaik pemain, efek visual Game Feel (seperti screen shake dan hit stop), serta sistem UI yang mulus saat pause, restart, hingga game over. Game ini dikembangkan menggunakan Unity Engine dengan bahasa pemrograman C#.
     </td>
