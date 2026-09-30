@@ -13,7 +13,7 @@ Halo! Selamat datang di portofolio saya. Berikut adalah beberapa proyek game yan
       <h3 align="center">1. Endless Front</h3>
       <img width="400" height="225" alt="EndlessFront_gif" src="https://github.com/user-attachments/assets/99a4a568-8339-490f-b198-f308b71a9b0a" /><br><br>
       <b>Deskripsi: </b><br>
-      Endless Front mengusung genre 2D Action Shooter yang menyajikan aksi serba cepat dan responsif. Fitur utamanya berfokus pada sistem High Score untuk menguji rekor terbaik pemain, efek visual Game Feel (seperti screen shake dan hit stop), serta sistem UI yang mulus saat pause, restart, hingga game over. Game ini dikembangkan menggunakan Unity Engine dengan bahasa pemrograman C#.
+      Endless Front is a 2D arcade survival shooter inspired by *Metal Slug* and developed using the Unity Engine. Players must survive waves of enemies, achieve the highest score, and utilize responsive shooting mechanics.
     </td>
     <td width="50%" valign="top">
       <h3 align="center">2. Title Game Kedua</h3>
