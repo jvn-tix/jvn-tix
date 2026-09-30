@@ -16,7 +16,7 @@ Crafting 2D games, participating in game dev competitions, and experimenting wit
       Endless Front is a 2D arcade survival shooter inspired by *Metal Slug* and developed using the Unity Engine. Players must survive waves of enemies, achieve the highest score, and utilize responsive shooting mechanics.
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">2. Title Game Kedua</h3>
+      <h3 align="center">2. Slime Slayer</h3>
       <img src="game2.gif" width="100%" alt="Gameplay Game 2"><br><br>
       <b>Deskripsi:</b><br>
       Deskripsi singkat mengenai genre, fitur utama, platform, atau engine yang digunakan dalam game ini.
