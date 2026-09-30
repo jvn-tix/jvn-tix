@@ -1,4 +1,4 @@
-# 🎮 Game Developer
+# 🎮 Game Programmer
 
 
 Crafting 2D games, participating in game dev competitions, and experimenting with mechanics across different genres. Focused on 2D development while expanding my skills toward 3D games
