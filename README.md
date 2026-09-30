@@ -19,7 +19,7 @@ Crafting 2D games, participating in game dev competitions, and experimenting wit
       <h3 align="center">2. Slime Slayer</h3>
       <img src="game2.gif" width="100%" alt="Gameplay Game 2"><br><br>
       <b>Deskripsi:</b><br>
-      Deskripsi singkat mengenai genre, fitur utama, platform, atau engine yang digunakan dalam game ini.
+      2D action RPG roguelite built using the Unity Engine. The game features a persistent progression system that allows players to train their characters and upgrade attributes in the lobby, as well as challenge various arena stages leading up to boss battles.
     </td>
   </tr>
   <tr>
