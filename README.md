@@ -27,7 +27,7 @@ Crafting 2D games, participating in game dev competitions, and experimenting wit
       <h3 align="center">Slime Slayer</h3>
       <img width="400" height="225" alt="ss" src="https://github.com/user-attachments/assets/81e02365-7ef0-49de-8c6a-2ad9fe89781b" /><br><br>
       <b>Deskripsi:</b><br>
-      2D action RPG roguelite built using the Unity Engine. The game features a persistent progression system that allows players to train their characters and upgrade attributes in the lobby, as well as challenge various arena stages leading up to boss battles.
+      2D action RPG roguelite built using the Unity Engine. The game features a persistent progression system that allows players to upgrade attributes in the lobby, as well as challenge various arena stages leading up to boss battles.
     </td>
     <td width="50%" valign="top">
       <h3 align="center">Wordbearer</h3>
