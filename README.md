@@ -30,10 +30,10 @@ Crafting 2D games, participating in game dev competitions, and experimenting wit
       2D action RPG roguelite built using the Unity Engine. The game features a persistent progression system that allows players to train their characters and upgrade attributes in the lobby, as well as challenge various arena stages leading up to boss battles.
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">4. Title Game Keempat</h3>
-      <img src="game4.gif" width="100%" alt="Gameplay Game 4"><br><br>
+      <h3 align="center">Wordbearer</h3>
+      <img width="400" height="225" alt="wb" src="https://github.com/user-attachments/assets/612b85d4-c85a-4461-a0fb-23481c25a10e" /><br><br>
       <b>Deskripsi:</b><br>
-      Deskripsi singkat mengenai genre, fitur utama, platform, atau engine yang digunakan dalam game ini.
+      A cozy 2D side-scrolling mail delivery and inspection simulation game built in Unity (C#). Players take on the role of a post carrier tasked with inspecting delivery descriptions, and delivering mails between each houses to increase your ratings..
     </td>
   </tr>
 </table>
