@@ -1,7 +1,6 @@
 # Hi there, I'm Jevon
 
-
-Crafting 2D games, participating in game dev competitions, and experimenting with mechanics across different genres. Focused on 2D development while expanding my skills toward 3D games
+Computer Science student passionate about Game Development, with a primary focus on Game Programming. Currently developing 2D games using Unity while expanding my skills toward 3D game development and exploring other game engines, including Unreal Engine. I also have experience in front-end development for web and mobile applications. Constantly learning and improving my programming skills to create engaging gameplay experiences and bring creative ideas to life.
 
 ---
 
