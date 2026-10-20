@@ -16,7 +16,7 @@ Computer Science student passionate about Game Development, with a primary focus
     </td>
     <td width="50%" valign="top">
       <h3 align="center">Gecko Of All Time</h3>
-      <img width="400" height="225" alt="GeckoOfAllTime (1)" src="https://github.com/user-attachments/assets/d07a5ad3-c9ea-4595-8861-625cf2075f6c" /><br><br>
+      <img width="400" height="225" alt="GeckoOfAllTime_Polished" src="https://github.com/user-attachments/assets/ea7dfc4b-d33e-4fe3-b18a-93a960f73617" /><br><br>
       <b>Deskripsi:</b><br>
       Gecko Of All Time is a roguelike shoot ‘em up video game. Player controls a geck while battling continuous waves of monsters, aiming to survive the battle for as long as possible.
     </td>
