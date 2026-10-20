@@ -30,7 +30,7 @@ Computer Science student passionate about Game Development, with a primary focus
     </td>
     <td width="50%" valign="top">
       <h3 align="center">Wordbearer</h3>
-      <img width="400" height="225" alt="wb" src="https://github.com/user-attachments/assets/612b85d4-c85a-4461-a0fb-23481c25a10e" /><br><br>
+      <img width="400" height="225" alt="wb" src="https://github.com/user-attachments/assets/78c3ca46-150a-4214-9d58-7fc1597f47ea" /><br><br>
       <b>Deskripsi:</b><br>
       A cozy 2D side-scrolling mail delivery and inspection simulation game built in Unity (C#). Players take on the role of a post carrier tasked with inspecting delivery descriptions, and delivering mails between each houses to increase your ratings..
     </td>
