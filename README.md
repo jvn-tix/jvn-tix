@@ -10,7 +10,7 @@ Computer Science student passionate about Game Development, with a primary focus
   <tr>
     <td width="50%" valign="top">
       <h3 align="center">Endless Front</h3>
-      <img width="400" height="225" alt="ef_new" src="https://github.com/user-attachments/assets/d54bebc2-b1dd-4587-9e9f-e67091b9dcce" /><br><br>
+      <img width="400" height="225" alt="ef_new2" src="https://github.com/user-attachments/assets/87901cac-f630-42bf-80cb-5247d82581d6" /><br><br>
       <b>Deskripsi: </b><br>
       Endless Front is a 2D arcade survival shooter inspired by *Metal Slug* and developed using the Unity Engine. Players must survive waves of enemies, achieve the highest score, and utilize responsive shooting mechanics.
     </td>
