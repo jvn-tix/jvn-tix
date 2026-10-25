@@ -13,16 +13,16 @@ Computer Science student passionate about Game Development, with a primary focus
       <img width="400" height="225" alt="ef_new2" src="https://github.com/user-attachments/assets/87901cac-f630-42bf-80cb-5247d82581d6" /><br><br>
       <b>Deskripsi: </b><br>
       Endless Front is a 2D arcade survival shooter inspired by *Metal Slug* and developed using the Unity Engine. Players must survive waves of enemies, achieve the highest score, and utilize responsive shooting mechanics.
+      <p align="center">
+        <a href="https://exaltedartix.itch.io/endless-front">🎮 Play on itch.io</a> |
+        <a href="https://github.com/jvn-tix/EndlessFront">💻 Source Code</a>
+  </p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">Gecko Of All Time</h3>
       <img width="400" height="225" alt="GeckoOfAllTime_Polished" src="https://github.com/user-attachments/assets/ea7dfc4b-d33e-4fe3-b18a-93a960f73617" /><br><br>
       <b>Deskripsi:</b><br>
       Gecko Of All Time is a roguelike shoot ‘em up video game. Player controls a geck while battling continuous waves of monsters, aiming to survive the battle for as long as possible.
-      <p align="center">
-        <a href="https://exaltedartix.itch.io/endless-front">🎮 Play on itch.io</a> |
-        <a href="https://github.com/jvn-tix/EndlessFront">💻 Source Code</a>
-  </p>
     </td>
   </tr>
   <tr>
