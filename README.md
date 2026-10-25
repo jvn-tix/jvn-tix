@@ -23,6 +23,10 @@ Computer Science student passionate about Game Development, with a primary focus
       <img width="400" height="225" alt="GeckoOfAllTime_Polished" src="https://github.com/user-attachments/assets/ea7dfc4b-d33e-4fe3-b18a-93a960f73617" /><br><br>
       <b>Deskripsi:</b><br>
       Gecko Of All Time is a roguelike shoot ‘em up video game. Player controls a geck while battling continuous waves of monsters, aiming to survive the battle for as long as possible.
+      <p align="center">
+        <a href="https://exaltedartix.itch.io/gecko-of-all-time">🎮 Play on itch.io</a> |
+        <a href="https://github.com/jvn-tix/GeckoOfAllTime">💻 Source Code</a>
+  </p>
     </td>
   </tr>
   <tr>
@@ -31,12 +35,20 @@ Computer Science student passionate about Game Development, with a primary focus
       <img width="400" height="225" alt="ss" src="https://github.com/user-attachments/assets/3f47d0ea-a148-4d31-81a1-4d714ea07751" /><br><br>
       <b>Deskripsi:</b><br>
       2D action RPG roguelite built using the Unity Engine. The game features a persistent progression system that allows players to upgrade attributes in the lobby, as well as challenge various arena stages leading up to boss battles.
+      <p align="center">
+        <a href="https://exaltedartix.itch.io/slime-slayer">🎮 Play on itch.io</a> |
+        <a href="https://github.com/jvn-tix/SlimeSlayer">💻 Source Code</a>
+  </p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">Wordbearer</h3>
       <img width="400" height="225" alt="wb_new" src="https://github.com/user-attachments/assets/11d1f44b-7cfb-47ff-be69-b8fbb197b78a" /><br><br>
       <b>Deskripsi:</b><br>
-      A cozy 2D side-scrolling mail delivery and inspection simulation game built in Unity (C#). Players take on the role of a post carrier tasked with inspecting delivery descriptions, and delivering mails between each houses to increase your ratings..
+      A cozy 2D side-scrolling mail delivery and inspection simulation game built in Unity (C#). Players take on the role of a post carrier tasked with inspecting delivery descriptions, and delivering mails between each houses to increase your ratings.
+      <p align="center">
+        <a href="https://exaltedartix.itch.io/wordbearer">🎮 Play on itch.io</a> |
+        <a href="https://github.com/jvn-tix/Wordbearer">💻 Source Code</a>
+  </p>
     </td>
   </tr>
 </table>
