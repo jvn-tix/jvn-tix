@@ -115,6 +115,15 @@ Constantly learning and improving my programming skills to create engaging gamep
 
 ---
 
+## 📁 Other Projects
+
+| Project | Description | Tech | Links |
+|---------|-------------|------|-------|
+| 🎮 Lost Under Bed | Lost Under Bed is a short atmospheric 2D psychological platformer a journey to rediscover the curiosity, courage, and dreams that adulthood has left behind. | ![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white) ![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white) | [itch.io](https://exaltedartix.itch.io/lost-under-bed) · [GitHub](https://github.com/jvn-tix/LostUnderBed) |
+| 📱 VitaTrack | Aplikasi Tracking kesehatan all in one, Track Kalori, Step, HPM, dan Sleep | ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) · [GitHub](https://github.com/jvn-tix/VitaTrack) |
+
+---
+
 ## 🛠️ Tools & Tech
 
 <p>
@@ -127,7 +136,6 @@ Constantly learning and improving my programming skills to create engaging gamep
 
 - 🎯 Building and polishing 2D games in Unity
 - 📚 Learning 3D game development
-- 🔭 Exploring Unreal Engine
 
 ---
 
