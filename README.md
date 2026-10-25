@@ -37,7 +37,6 @@ Constantly learning and improving my programming skills to create engaging gamep
         </a>
       </p>
       <p align="center">
-        <img src="https://img.shields.io/badge/Genre-Arcade_Shooter-E74C3C?style=flat-square" alt="Genre" />
         <img src="https://img.shields.io/badge/Unity-2D-000000?style=flat-square&logo=unity" alt="Unity 2D" />
       </p>
       <p>
@@ -57,7 +56,6 @@ Constantly learning and improving my programming skills to create engaging gamep
         </a>
       </p>
       <p align="center">
-        <img src="https://img.shields.io/badge/Genre-Roguelike_Shmup-8E44AD?style=flat-square" alt="Genre" />
         <img src="https://img.shields.io/badge/Unity-2D-000000?style=flat-square&logo=unity" alt="Unity 2D" />
       </p>
       <p>
@@ -79,7 +77,6 @@ Constantly learning and improving my programming skills to create engaging gamep
         </a>
       </p>
       <p align="center">
-        <img src="https://img.shields.io/badge/Genre-Action_RPG_Roguelite-27AE60?style=flat-square" alt="Genre" />
         <img src="https://img.shields.io/badge/Unity-2D-000000?style=flat-square&logo=unity" alt="Unity 2D" />
       </p>
       <p>
@@ -99,7 +96,6 @@ Constantly learning and improving my programming skills to create engaging gamep
         </a>
       </p>
       <p align="center">
-        <img src="https://img.shields.io/badge/Genre-Cozy_Simulation-F39C12?style=flat-square" alt="Genre" />
         <img src="https://img.shields.io/badge/Unity-2D-000000?style=flat-square&logo=unity" alt="Unity 2D" />
       </p>
       <p>
