@@ -19,6 +19,10 @@ Computer Science student passionate about Game Development, with a primary focus
       <img width="400" height="225" alt="GeckoOfAllTime_Polished" src="https://github.com/user-attachments/assets/ea7dfc4b-d33e-4fe3-b18a-93a960f73617" /><br><br>
       <b>Deskripsi:</b><br>
       Gecko Of All Time is a roguelike shoot ‘em up video game. Player controls a geck while battling continuous waves of monsters, aiming to survive the battle for as long as possible.
+      <p align="center">
+        <a href="https://exaltedartix.itch.io/endless-front">🎮 Play on itch.io</a> |
+        <a href="https://github.com/jvn-tix/EndlessFront">💻 Source Code</a>
+  </p>
     </td>
   </tr>
   <tr>
