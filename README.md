@@ -43,8 +43,8 @@ Constantly learning and improving my programming skills to create engaging gamep
         A 2D arcade survival shooter inspired by <i>Metal Slug</i> and developed with Unity. Survive waves of enemies, chase the highest score, and master responsive shooting mechanics.
       </p>
       <p align="center">
-        <a href="https://exaltedartix.itch.io/endless-front"><img src="https://img.shields.io/badge/itch.io-Play-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" alt="Play on itch.io" /></a>
-        <a href="https://github.com/jvn-tix/EndlessFront"><img src="https://img.shields.io/badge/GitHub-Source-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code" /></a>
+        <a href="https://exaltedartix.itch.io/endless-front"><img src="https://img.shields.io/badge/itch.io-Play-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white"/></a>
+        <a href="https://github.com/jvn-tix/EndlessFront"><img src="https://img.shields.io/badge/GitHub-Source-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
       </p>
     </td>
     <!-- Gecko Of All Time -->
